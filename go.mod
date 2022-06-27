@@ -238,3 +238,4 @@ require (
 )
 
 replace github.com/hashicorp/terraform-plugin-docs => github.com/jacobbednarz/terraform-plugin-docs v0.5.1-0.20220620022151-c3ba333e39ff
+replace github.com/cloudflare/cloudflare-go => github.com/tamas-jozsa/cloudflare-go v0.43.1
